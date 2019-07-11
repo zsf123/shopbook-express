@@ -4,3 +4,4 @@
 - ### cnpm install 
 - ### cnpm run start
 - ### 开启失败有时是端口占用问题
+- ### 这是vue-admin-shopbook的后台项目，要看到页面还要克隆 下来vie-admin-shopbook项目
